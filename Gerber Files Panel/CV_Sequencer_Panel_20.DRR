@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CV_Sequencer_Panel_20.PcbDoc   5/14/2017  7:27:24 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Non-Plated RoundHoles File : CV_Sequencer_Panel_20-RoundHoles-NonPlated.TXT
+ASCII Non-Plated SlotHoles File : CV_Sequencer_Panel_20-SlotHoles-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      3.1mm (122mil)                                            Round             8         NPTH       183.38mm (7.22inch)
+T2      3.8mm (150mil)                                            Slot              4         NPTH       477.02mm (18.78inch)
+T3      6.8mm (268mil)                                            Round             6         NPTH       114.51mm (4.51inch)
+T4      7mm (276mil)                                              Round             1         NPTH       0.00mm (0.00inch)
+T5      8mm (315mil)                                              Round             8         NPTH       185.72mm (7.31inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              27
+
+Total Processing Time (hh:mm:ss) : 00:00:00

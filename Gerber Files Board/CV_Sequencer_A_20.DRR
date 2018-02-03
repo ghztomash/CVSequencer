@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CV_Sequencer_A_20.PcbDoc   5/14/2017  7:25:25 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : CV_Sequencer_A_20-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : CV_Sequencer_A_20-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : CV_Sequencer_A_20-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             103       PTH        779.98mm (30.71inch)
+T2      0.6mm (24mil)                                             Slot              6         PTH        233.95mm (9.21inch)
+T3      0.7mm (28mil)                                             Slot              12        PTH        313.91mm (12.36inch)
+T4      0.9mm (35mil)                                             Round             27        PTH        280.61mm (11.05inch)
+T5      0.9mm (35mil)                                             Round             26        PTH        264.10mm (10.40inch)
+T6      1.2mm (47mil)                                             Slot              18        PTH        633.75mm (24.95inch)
+T7      3mm (118mil)                                              Round             6         NPTH       114.51mm (4.51inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              198
+
+Total Processing Time (hh:mm:ss) : 00:00:01

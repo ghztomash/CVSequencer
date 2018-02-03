@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\GHz Labs\CV sequencer_0.2\CV_Sequencer_Panel_20.PcbDoc
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=cv_sequencer_panel_20-roundholes-nonplated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Slot_Holes|DrillFile=cv_sequencer_panel_20-slotholes-nonplated.txt|DrillLayers=gtl,gbl
